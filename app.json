@@ -1,0 +1,16 @@
+{
+    "expo": {
+     "name": "CalisTimer",
+     "icon": "./assets/icon.png",
+     "version": "1.0.0",
+     "slug": "calistimer",
+     "ios": {
+       "bundleIdentifier": "com.devpleno.calistimer",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.devpleno.calistimer",
+       "versionCode": 1
+     }
+    }
+  }
