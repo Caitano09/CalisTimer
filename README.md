@@ -2,6 +2,9 @@
 
 <p>
   <!-- iOS -->
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
   <a href="https://itunes.apple.com/app/apple-store/id982107779">
     <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
   </a>
