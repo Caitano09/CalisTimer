@@ -20,8 +20,9 @@
 </p>
 
 ## Preview
-<div align="center">
-  <img src="assets/20210211_143317_Trim.gif" alt="demo" height="425">
+<div>
+  <img src="assets/20210211_143317_Trim.gif" alt="demo" height="425" style="vertical-align:middle;margin:0px 50px">
+
   <img src="assets/iPhone 8 Plus.png" alt="demo" height="425">
   <img src="assets/iPhone 8 Plus-1.png" alt="demo" height="425">
   <img src="assets/iPhone 8 Plus-2.png" alt="demo" height="425">
