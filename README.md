@@ -20,7 +20,7 @@
 </p>
 
 ## Preview
-<div align="center">
+<div>
   <img src="assets/20210211_143317_Trim.gif" alt="demo" height="425">
 </div>
 
