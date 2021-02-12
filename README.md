@@ -41,7 +41,7 @@
 
 ## 📝 Features
 
-- ⚛️ **Node Js** — A web framework for Node Js
+- ⚛️ React — A library javascript
 
 ## License
 
