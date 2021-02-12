@@ -1,6 +1,7 @@
 # CalisTimer
 
 <p>
+  App for help with calisthenics training</p>
   <!-- iOS -->
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -17,6 +18,11 @@
     <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
   </a>
 </p>
+
+## Preview
+<div align="center">
+  <img src="assets/20210211_143317_Trim.gif" alt="demo" height="425">
+</div>
 
 ## 🚀 How to use
 
