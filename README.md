@@ -22,11 +22,11 @@
 ## Preview
 <div>
   <img src="assets/20210211_143317_Trim.gif" alt="demo" height="425">
-  <p align="center">
+  <div align="center">
     <img src="assets/iPhone 8 Plus.png" alt="demo" height="425">
    <img src="assets/iPhone 8 Plus-1.png" alt="demo" height="425">
     <img src="assets/iPhone 8 Plus-2.png" alt="demo" height="425">
-   </p>
+   </div>
 </div>
 
 ## 🚀 How to use
